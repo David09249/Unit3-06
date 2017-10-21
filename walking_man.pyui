@@ -1,0 +1,33 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{234, 98}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "start_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Start",
+          "uuid" : "1F9B1D24-E4E5-4AF2-B740-66DAE4D51649",
+          "class" : "Button",
+          "name" : "start_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
